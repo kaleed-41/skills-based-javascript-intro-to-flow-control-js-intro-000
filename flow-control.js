@@ -56,4 +56,3 @@ function switchAge(age) {
       console.log("You have an age");
   }
 }
-
